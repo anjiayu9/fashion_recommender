@@ -1,0 +1,2594 @@
+[
+    {
+        "clothing_type": "T-Shirt",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "T-Shirt",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "T-Shirt",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "T-Shirt",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "T-Shirt",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "T-Shirt",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "T-Shirt",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "T-Shirt",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "T-Shirt",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Longsleeve",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Pants",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Shirt",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shoes",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shirt",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Bracelet",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Dress",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Outwear",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Shorts",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hat",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Skirt",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Polo",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Undershirt",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blazer",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Hoodie",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Top",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "Red",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Orange"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "Blue",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Purple"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "Yellow",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Orange"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Green"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "Green",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Blue"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "Purple",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Grey"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Black"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "Orange",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Red"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Yellow"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "Black",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Blue"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Purple"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "White"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "White",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Yellow"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "Black"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Grey"
+            }
+        ]
+    },
+    {
+        "clothing_type": "Blouse",
+        "color": "Grey",
+        "related_clothing": [
+            {
+                "clothing_type": "Pants",
+                "color": "Green"
+            },
+            {
+                "clothing_type": "Shoes",
+                "color": "White"
+            },
+            {
+                "clothing_type": "Hat",
+                "color": "Red"
+            }
+        ]
+    }
+]

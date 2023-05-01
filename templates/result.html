@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+</head>
+<body>
+    <h2>This is a {{ pred }}</h2>
+    <img src="{{ url_for('static', filename='upload.png') }}" alt="Upload">
+    <h2>Main colors:</h2>
+    {% for color in main_colors %}
+        <div style="background-color: {{ color }}; width: 100px; height: 100px;"></div>
+    {% endfor %}
+    <h2>Suggested Clothing:</h2>
+    <div id="suggested-clothing" data-pred="{{ pred }}" data-color="{{ main_colors[0] }}" data-suggestions="{{ suggestions | tojson | safe }}"></div>
+
+    <script src="../static/js/result.js"></script>
+</body>
+</html>

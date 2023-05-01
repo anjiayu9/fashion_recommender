@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Results</title>
+    <link rel="stylesheet" href="../static/css/display.css">
+</head>
+<body>
+    <nav>
+        <a href="{{ url_for('index') }}">Home</a>
+        <a href="{{ url_for('customization') }}">Customization</a>
+        <a href="{{ url_for('first_hand') }}">First Hand</a>
+        <a href="{{ url_for('second_hand') }}">Second Hand</a>
+    </nav>
+    <h1>Find Your Clothes</h1>
+    <form id="searchForm">
+        <select id="cloth">
+            <option value="Shirt">Shirt</option>
+            <option value="Pants">Pants</option>
+            <option value="Pants">Hoodie</option>
+            <option value="Dress">Dress</option>
+            <option value="Skirt">Skirt</option>
+        </select>
+        <select id="color">
+            <option value="Black">Black</option>
+            <option value="White">White</option>
+            <option value="Red">Red</option>
+            <option value="Blue">Blue</option>
+            <option value="Blue">Green</option>
+            <option value="Blue">Yellow</option>
+        </select>
+        <select id="brand">
+            <option value="Nordstrom">Nordstrom</option>
+            <option value="Saks Fifth Avenue">Saks Fifth Avenue</option>
+            <option value="Kate Spade">Kate Spade</option>
+            <option value="Zara">Zara</option>
+            <option value="H&M">H&M</option>
+        </select>
+        <button type="submit">Search</button>
+    </form>
+    <h1>Top 10 Results</h1>
+    <div id="results"></div>
+</body>
+</html>
+<script src="../static/js/display.js"></script>

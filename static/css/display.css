@@ -1,0 +1,94 @@
+body {
+    font-family: 'Chalkboard', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #F5F5F5;
+}
+
+nav {
+    background-color: forestgreen;
+    color: #E6E6FA;
+    padding: 25px;
+    text-align: center;
+    font-size: 1.6em;
+}
+
+nav a {
+    color: #E6E6FA;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #483D8B;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    max-width: 300px;
+    text-align: center;
+    transition: transform .2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card h2, .card p {
+    margin: 10px 0;
+}
+
+#searchForm {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+#searchForm select {
+    padding: 10px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #333;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.1);
+}
+
+#searchForm button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    background-color: forestgreen;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color .2s;
+}
+
+#searchForm button:hover {
+    background-color: #228B22;
+}
